@@ -1,4 +1,4 @@
-# 📊 Financial Statement Analysis – DFML vs IMCL
+# 📊 Financial Statement Analysis – DFML vs IMCL.
 
 This repository contains the final year group project for the **Business Finance (MGT-232)** course. The project presents a comprehensive **comparative financial analysis** of:
 
